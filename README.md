@@ -44,7 +44,7 @@ A cutting-edge AI SaaS platform that enables users to create, discover, and enjo
 
 👉 **Create Podcast Page**: Enables podcast creation with text-to-audio conversion, AI image generation, and previews.
 
-👉 **Multi Voice AI Functionality**: Supports multiple AI-generated voices for dynamic podcast creation.
+👉 **Multi Language Voice AI Functionality**: Supports multiple AI-generated voices for dynamic podcast creation.
 
 👉 **Profile Page**: View all created podcasts with options to delete them.
 
@@ -72,7 +72,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/shisui0711/Podcast-App.git
-cd jsm_podcastr
+cd Podcast-App
 ```
 
 **Installation**
