@@ -11,7 +11,7 @@ const Page = () => {
   return (
     <div className="mt-9 flex flex-col gap-9 md:overflow-hidden">
       <section className="flex flex-col gap-5">
-        <h1 className="text-20 font-bold text-white-1">Trending podcast</h1>
+        <h1 className="text-20 font-bold text-white-1">Xu hướng</h1>
         <div className="podcast_grid ">
           {trendingPodcasts?.map(({ _id, imageUrl, description, title }) => (
             <PodcastCard
